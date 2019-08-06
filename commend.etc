@@ -1,0 +1,9 @@
+查看内存。: free
+退出。: exit
+显示当前文件。: ls -al
+查看硬盘。: df -h
+关闭防火墙。: systemctl stop firewalld
+打开防火墙。: systemctl start firewalld
+跑火车。: sl
+查看进程。: ps aux
+打开任务管理器。: top
